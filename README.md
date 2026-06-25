@@ -1,2 +1,2 @@
-# javaScript-basics
-this repo contains basics of the javascript
+# javaScript-basics Projects
+this repo contains basic projects of the javascript
