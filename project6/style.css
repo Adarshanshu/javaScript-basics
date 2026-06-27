@@ -1,0 +1,36 @@
+/* General table styling */
+table {
+  width: 100%;                /* full width */
+  border-collapse: collapse;   /* remove double borders */
+  margin: 20px 0;              /* spacing around table */
+  font-size: 16px;
+  text-align: left;
+}
+
+/* Table header */g
+th {
+  background-color: #4CAF50;   /* green header */
+  color: white;
+  padding: 12px;
+}
+
+/* Table cells */
+td {
+  padding: 12px;
+  border: 1px solid #ddd;      /* light border */
+}
+
+/* Alternate row colors */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Hover effect */
+tr:hover {
+  background-color: #ddd;
+}
+/* h1{
+    text-align:center;
+    font-weight:bold;
+    font-size:large;
+} */
